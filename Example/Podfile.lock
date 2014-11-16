@@ -1,0 +1,14 @@
+PODS:
+  - I17DirectionalProgressView (0.1.0)
+
+DEPENDENCIES:
+  - I17DirectionalProgressView (from `../`)
+
+EXTERNAL SOURCES:
+  I17DirectionalProgressView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  I17DirectionalProgressView: 3396bdd0a88e349cd8d4b63cd1be31ecf6623ccc
+
+COCOAPODS: 0.34.4
